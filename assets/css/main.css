@@ -3013,7 +3013,10 @@ input, select, textarea {
 
 		.spotlights > section > .image {
 			background-position: center center;
-			background-size: cover;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-origin: content-box;
+			padding: 5em;
 			border-radius: 0;
 			display: block;
 			position: relative;
@@ -3256,7 +3259,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #2a2729;
 		}
 
 		.wrapper.style1-alt {
