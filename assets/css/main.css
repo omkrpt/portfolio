@@ -3011,6 +3011,10 @@ input, select, textarea {
 			min-height: 0;
 		}
 
+		.spotlights > section > #snakevid {
+			padding: 3em;
+		}
+
 		.spotlights > section > .image {
 			background-position: center center;
 			background-size: contain;
@@ -3033,7 +3037,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: #5052b5;
 				content: '';
 				display: block;
 				height: 100%;
@@ -3082,11 +3086,8 @@ input, select, textarea {
 			background-color: rgba(0, 0, 0, 0.05);
 		}
 
-		.spotlights > section:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.1);
-		}
 		.spotlights > section:nth-child(4) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: rgba(0, 0, 0, 0.05);
 		}
 
 		.spotlights > section.inactive > .image:before,
