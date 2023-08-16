@@ -118,7 +118,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: Open Sans, Arial, Helvetica, sans-serif;
+		font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -165,7 +165,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #ffffff;
-		font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+		font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 		font-weight: bold;
 	}
 
@@ -179,7 +179,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+		font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -1845,7 +1845,7 @@ input, select, textarea {
 		display: inline-block;
 		font-size: 0.6em;
 		font-weight: bold;
-		font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+		font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 		height: calc(4.75em + 2px);
 		letter-spacing: 0.25em;
 		line-height: 4.75em;
@@ -2303,7 +2303,7 @@ input, select, textarea {
 	label {
 		color: #ffffff;
 		font-weight: bold;
-		font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+		font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
 		display: block;
@@ -2664,7 +2664,7 @@ input, select, textarea {
 		dl dt {
 			display: block;
 			font-weight: bold;
-			font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+			font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 			margin: 0 0 1em 0;
 		}
 
@@ -3179,7 +3179,7 @@ input, select, textarea {
 			color: #ffffff;
 			font-size: 1em;
 			font-weight: bold;
-			font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+			font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
 		}
@@ -3400,7 +3400,7 @@ input, select, textarea {
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
-			font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+			font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 		}
 
 		#header > nav {
@@ -3432,7 +3432,7 @@ input, select, textarea {
 						color: rgba(255, 255, 255, 0.35);
 						display: inline-block;
 						font-size: 0.6em;
-						font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+						font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 						font-weight: bold;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
@@ -3761,7 +3761,7 @@ input, select, textarea {
 			color: rgba(255, 255, 255, 0.35);
 			display: block;
 			font-size: 0.6em;
-			font-family: Work Sans, Open Sans, Arial, Helvetica, sans-serif;
+			font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 			font-weight: bold;
 			letter-spacing: 0.25em;
 			line-height: 1.75;
@@ -3904,6 +3904,7 @@ input, select, textarea {
 
 		#intro p {
 			font-size: 1.25em;
+			font-family: 'Work Sans', 'Open Sans', Arial, Helvetica, sans-serif;
 		}
 
 			@media screen and (max-width: 980px) {
