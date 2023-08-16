@@ -3910,7 +3910,7 @@ input, select, textarea {
 			@media screen and (max-width: 980px) {
 
 				#intro p br {
-					display: none;
+					display: block;
 				}
 
 			}
