@@ -1,1 +1,1 @@
-I'm Omkar Pote. This portfolio is hosted via github pages. Yes.
+I'm Omkar Pote. This portfolio is hosted via github pages.
