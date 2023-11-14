@@ -1,0 +1,272 @@
+%-------------------------
+% Resume in Latex
+% Author : Omkar Pote
+% Based off of: https://github.com/jakegut/resume
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{1.0\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    {\vspace*{30pt} \Huge \scshape Omkar Pote} \\ \vspace{5pt} 
+    % 123 Street Name, Town, State 12345 \\ \vspace{1pt}
+    \small
+    \href{omkarpote.com}{\raisebox{-0.2\height}\faGlobe\  \underline{omkarpote.com}} ~ 
+    \href{mailto:omkrpt@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{omkrpt@gmail.com}} ~ 
+    \href{https://linkedin.com/in/omkrpt/}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/omkrpt}}  ~
+    \href{https://github.com/omkarpote}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/omkarpote}}
+    \vspace{-8pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Indian Institute of Technology, Madras}{July 2016 -- May 2020}
+      {Bachelor of Technology in Chemical Engineering}{Chennai, India}
+  \resumeSubHeadingListEnd
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Primary Skills}{: Java Spring Boot, RESTful services, OOP, SOLID principles, System Design, C++, Microservices, Kubernetes} \\
+     \textbf{Languages}{: Java, C/C++, Python, Javascript, Scala, Bash Shell scripting, LaTeX} \\
+     \textbf{Big Data}{: ETL, Spark, Databricks, AWS (EC2, S3, EMR), Hadoop, MySQL, MongoDB, Neo4j} \\
+     \textbf{Technologies/Frameworks}{: OpenMP, Parallel programming, RabbitMQ, Redis, Hibernate, Apache Nifi, Thrift, NewRelic, Camunda, BPMN Workflows, Payment gateways, Junit/Mockito, NodeJS, ReactJS, HTML/CSS} \\
+    }}
+ \end{itemize}
+ \vspace{-16pt}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {iACE Lab @ IIT Madras}{Oct 2023 -- Present}
+      {Project Scientist}{}
+      \resumeItemListStart
+        \resumeItem{Working in the Intelligent Applications in Chemical Engineering
+        \href{https://home.iitm.ac.in/raj/}{\underline{(iACE)}}
+        Lab under Prof. Rajagopalan Srinivasan. Current research focus: XAI in Process Systems Engineering.
+        }
+        \resumeItem{ Exploring Interpretable and Explainable AI techniques for multivariate time series classification, in a chemical engineering context.
+        }
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {HILCPS Lab @ IIT Madras}{Oct 2023 -- Present}
+      {Software Consultant}{}
+      \resumeItemListStart
+        \resumeItem{Concurrently involved with the Human-in-the-Loop Cyber-Physical Systems 
+        \href{https://home.iitm.ac.in/babji.srinivasan/index.html}{\underline{(HILCPS)}}
+         Lab, led by Prof. Babji Srinivasan.
+        }
+        \resumeItem{My main responsibility here is to guide the research group on implementing enterprise-level best practices and team values.
+        }
+        \resumeItem{This involves conducting code reviews and interactive sessions covering various aspects of software engineering, including collaboration, agile methodologies, version control, and code hygiene.
+        }
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Capillary Technologies}{May 2020 -- Sep 2023}
+      {Software Developer, OTA Payments}{Dec 2021 -- Sep 2023}
+      \resumeItemListStart
+        \resumeItem{
+        Designed and implemented POTATO (Over-The-Air Transactions Orchestrator), a robust and comprehensive solution that facilitates seamless, cashless fuel transactions at gas stations.
+        }
+        \resumeItem{
+        Executed the entire development process, constructing the microservice architecture including a Spring Boot-based application and databases using MySQL and MongoDB.
+        }
+        \resumeItem{
+        Built highly secure REST APIs for communication with Payment Service Providers and fuel stations.
+        }
+        \resumeItem{
+        Continually optimized the system performance, which leverages RabbitMQ to efficiently handle real-time transactions, accommodating a user load exceeding 10,000 per minute.
+        }
+        \resumeItem{
+        Additionally, took charge of instituting a CI/CD pipeline and implementing real-time monitoring systems to ensure optimal functionality.
+        }
+      \resumeItemListEnd
+    \resumeSubSubheading
+      {Big Data Engineer, Extract, Transform, Load (ETL)}{Oct 2020 -- Nov 2021}
+      \resumeItemListStart
+        \resumeItem{Contributed to feature development and optimization of the in-house data warehousing and ETL system managing Capillary’s flagship CRM and BI tool, processing over 6 billion new daily records.}
+        \resumeItem{Managed ETL processes using Spark clusters on AWS Elastic Map Reduce (EMR), including data cleaning, transformation, and the generation of a star schema-based model with facts, dimensions, and KPIs.}
+      \resumeItemListEnd
+    \resumeSubSubheading
+      {Intern}{May 2020 -- Sep 2020}
+      \resumeItemListStart
+        \resumeItem{Built internal developer tools to handle the ETL process. This includes GUIs for end-to-end control and monitoring of executions from Neo4j, where the queries are stored as a Directed Acyclic Graph.}
+      \resumeItemListEnd
+
+\pagebreak \vspace*{30pt}
+
+    \resumeSubheading
+      {Tesco}{May 2019 -- Jul 2019}
+      {Software Engineering Intern}{}
+      \resumeItemListStart
+        \resumeItem{Automated Tesco's food donation system by eliminating a labor-intensive step in stock management, optimizing processes for 2500+ stores and 6000+ charities.
+        }
+        \resumeItem{Developed a Donation Assistant API for product classification, implemented an Apache Nifi and Python Flask based pipeline, reducing administrative workload by 20\%, and enhanced donation accuracy/relevance by over 15\% through data analysis using R tidyverse package.
+        }
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Crest IT Consulting}{Jun 2018 -- Jul 2018}
+      {Web Development Intern}{}
+      \resumeItemListStart
+        \resumeItem{Took up a complete rebranding initiative for the company, involving the development of a new website, logo, and brand identity. Check out the results at \href{https://crestit.in}{\underline{crestit.in}}.
+        }
+    \resumeItemListEnd
+    
+  \resumeSubHeadingListEnd
+\vspace{-16pt}
+
+
+%-----------INVOLVEMENT---------------
+\section{Activities and Projects}
+    \resumeSubHeadingListStart
+        \resumeSubSubheading
+            {Projects}{}
+            \resumeItemListStart
+                \resumeItem{\textbf{Yuj (formerly Caval):} Contributed as a founding team member for this IITM-based startup, which provided doorstep vehicle repair services. Led the development of the entire branding, logo, website, app, and other marketing materials.}
+                \resumeItem{\textbf{ChemClave:} Created the ChemClave 2017 website as part of the WebOps team, for the annual event organised by the Chemical Engineering Society (CheS) of IIT Madras.}
+                \resumeItem{\textbf{Cuckoo Dooku:} Developed a Star Wars themed, open source Chrome extension for productivity. Received a commendation in the FOSS hackathon 2021. See \href{https://github.com/omkarpote/cuckoo-dooku}{\underline{github.com/omkarpote/cuckoo-dooku}}}
+            \resumeItemListEnd
+        \resumeSubSubheading
+            {Graphic Design}{}
+            \resumeItemListStart
+                \resumeItem{\textbf{Technical Proficiency:} Skilled in graphic design using the Adobe Suite including Photoshop, Illustrator, Premiere Pro and Indesign}
+                \resumeItem{\textbf{Freelance Experience:} Freelanced for various clients from Dec'16 to Aug'18. Portfolio at 
+                \href{https://www.behance.net/omkarpote}{\underline{behance.net/omkarpote}}}
+                \resumeItem{\textbf{Head of Design, Entrepreneurship Cell, IIT Madras:} Led a team of 16 designers and associate designers, developing creative content for digital and printed media, over the course of two semesters.}
+                \resumeItem{\textbf{Inter IIT Sports Meet:} As part of the organising team of the 2017 edition, designed marketing content, venue setups and ambience for the tournament.}
+            \resumeItemListEnd
+        \resumeSubSubheading
+            {Extracurriculars}{}
+            \resumeItemListStart
+                \resumeItem{\textbf{Department Football Team Captain:} Led the Chemical Engineering department football team to a third-place finish in the IITM Inter Department League 2018-19.}
+                \resumeItem{\textbf{Karate Achievements:} Black belt holder with numerous accolades and medals on the national level, showcasing over 11 years of dedicated practice.}
+                \resumeItem{\textbf{Music Certification:} Successfully cleared ABGMVM's Hindustani Classical Music Exam with an impressive score of 45/50.}
+            \resumeItemListEnd
+        
+    \resumeSubHeadingListEnd
+
+
+\end{document}
