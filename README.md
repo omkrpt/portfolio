@@ -1,1 +1,1 @@
-This portfolio website is hosted via github pages. Nice.
+This portfolio website is hosted via github pages.
