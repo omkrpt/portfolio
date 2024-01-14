@@ -3931,3 +3931,16 @@ input, select, textarea {
 			}
 
 		}
+		
+		#intro section {
+			padding: 0em 2em 0em 2em;
+		}
+		
+		#intro .image {
+			padding: 2em;
+		}
+		
+		#intro .content {
+			padding: 2em;
+		}
+		
