@@ -3939,6 +3939,11 @@ input, select, textarea {
 		#intro .image {
 			padding: 2em;
 		}
+
+		#intro .image:before {
+			background: #2a2729;
+		}
+		
 		
 		#intro .content {
 			padding: 2em;
