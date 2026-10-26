@@ -1,0 +1,44 @@
+CHAKRA PETCH - SELF-HOSTED FONT SOURCES
+Retrieved: 2026-10-26
+
+Family: Chakra Petch
+Designer (Google Fonts metadata): Cadson Demak
+Normal weights included: Regular 400, Medium 500, SemiBold 600, Bold 700.
+Format: TrueType (TTF). All binaries are unchanged upstream files; no conversion or subsetting.
+
+License: SIL Open Font License 1.1. See the complete original license in ChakraPetch-OFL.txt.
+Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)
+
+Official Google Fonts directory: https://github.com/google/fonts/tree/main/ofl/chakrapetch
+Metadata source: https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/METADATA.pb
+Upstream project named in metadata: https://github.com/m4rc1e/Chakra-Petch
+
+Validation: TrueType signatures, all FontTools tables, family names, normal style flags, expected OS/2 weight classes, and ASCII letter/number cmap entries checked.
+No external font request is required at runtime. Preserve the original OFL notice when redistributing.
+
+FILES
+
+ChakraPetch-Regular.ttf
+Source: https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/ChakraPetch-Regular.ttf
+Size: 78488 bytes
+SHA-256: 98fcd638baa5c81ff0316b7538ce330ee3b23b1302726de3526d5933a8ecf986
+
+ChakraPetch-Medium.ttf
+Source: https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/ChakraPetch-Medium.ttf
+Size: 78600 bytes
+SHA-256: d480f4f97405fac3600652e2e14fd0b14339031c0af4da11582994878f04d919
+
+ChakraPetch-SemiBold.ttf
+Source: https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/ChakraPetch-SemiBold.ttf
+Size: 78604 bytes
+SHA-256: 45264de3204ddbd5fb3e14a2402acd5c630d16650ae5fc221d2c52da46a6734b
+
+ChakraPetch-Bold.ttf
+Source: https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/ChakraPetch-Bold.ttf
+Size: 78384 bytes
+SHA-256: 65fbf76d95651697275e19db4d717c0e95a789ddd3476478b05292104db278a0
+
+ChakraPetch-OFL.txt
+Source: https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/OFL.txt
+Size: 4396 bytes
+SHA-256: 13831d02389d917d22fcfa6c79f98f8acbf61d230add0e73a4d4dc5f3bfb9e56

@@ -129,6 +129,22 @@
 			}
 		});
 
+	// Snake video: local-file previews use a play link; HTTP pages keep the player.
+		if (window.location.protocol === 'file:') {
+			var snakeVideo = document.getElementById('snakevid'),
+				snakeLink = document.querySelector('#snake .video-link a');
+
+			if (snakeVideo && snakeLink) {
+				var snakePreview = snakeLink.cloneNode(true);
+				snakePreview.className = 'video-preview';
+				snakePreview.innerHTML = '<span class="video-preview-play" aria-hidden="true">&#9654;</span>'
+					+ '<span class="video-preview-title">Watch Snake on YouTube</span>'
+					+ '<span class="video-preview-note">Opens in a new tab</span>';
+				snakeVideo.parentNode.replaceChild(snakePreview, snakeVideo);
+				snakeLink.parentNode.hidden = true;
+			}
+		}
+
 	// Spotlights.
 		$('.spotlights > section')
 			.scrollex({
@@ -151,9 +167,13 @@
 			.each(function() {
 
 				var	$this = $(this),
-					$image = $this.find('.image'),
-					$img = $image.find('img'),
+					$image = $this.children('.image').not('iframe'),
+					$img = $image.find('img').first(),
 					x;
+
+				// Video embeds and text-only sections are not background images.
+					if (!$img.length || !$img.attr('src'))
+						return;
 
 				// Assign image.
 					$image.css('background-image', 'url(' + $img.attr('src') + ')');

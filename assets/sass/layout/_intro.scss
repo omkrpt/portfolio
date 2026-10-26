@@ -31,3 +31,8 @@
 			background-attachment: scroll;
 		}
 	}
+/* Preserve the portrait's hard pixel edges in both spotlight render modes. */
+#intro .image,
+#intro .image img {
+    image-rendering: pixelated;
+}

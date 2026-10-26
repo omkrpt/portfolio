@@ -1,0 +1,176 @@
+PROJECT ARTWORK
+
+CURRENT PRIMARY INTERESTS AND FAVICON — October 26, 2026
+images/skills/interests.svg is an original code-drawn compass on a 20x20 grid,
+exported to interests.png for the small skill badge. It replaces the earlier
+magnifying-glass illustration documented below. Flat plum, cream, gold, coral,
+and cyan shapes match the rest of the skill icons.
+favicon/favicon.svg recreates the header's Pixelify Sans 600 op. monogram as
+font outlines, with a cream face, plum lettering, and coral offset edge.
+The PNG and ICO favicon assets are exports of this mark; favicon-16.svg has
+optical adjustments to keep the letters readable in the smallest browser tabs.
+The original Pixelify
+font and its open-source license are included in assets/fonts/retro/.
+
+CURRENT PORTRAIT — user-supplied final image, October 26, 2026
+images/headshot-pixel.png is the user's final supplied PNG, used byte-for-byte
+without further generation or image edits. Its SHA-256 is
+40b9ffb40f7f3690802a6d116bec00d888e8f4642b0fc62fe25f1080f3d10cec.
+The portrait prompts below document earlier iterations only.
+
+The nine project-*.png assets were generated with the built-in image-generation tool.
+Potato and Cuckoo Dooku have been redrawn to match the full set.
+The original image files remain in the source archive.
+
+Shared direction: simple transparent retro pixel sprites in plum, cream, coral,
+cyan, lavender and mint, with matching chunky silhouettes and no words.
+
+
+REON
+Use case: logo-brand. Asset: a small logo-like pixel-art sprite for ReOn, a data-engineering project on a playful personal portfolio website. Subject: a whimsical miniature database silo with THREE stacked disk layers and a bent pipeline carrying THREE colored square data blocks into the silo. Make the shape simple, iconic and immediately readable, not a robot, no eyes, no face, not R2-D2. Center the single isolated icon on a square TRANSPARENT canvas with generous transparent margins, filling approximately 70% of the square. Style: authentic coarse 32x32 or 48x48 effective pixel grid enlarged with perfectly crisp hard square pixels. Chunky geometric silhouette, flat 6-8 color palette, only 2 blocky shade levels, restrained playful 1990s adventure-game inventory icon, light from upper left. Palette: deep plum #2b174d for shade, warm cream #ffe6bd, orange #ff9957, coral #f76c55, magenta #b43f83, cyan #55d7d6, slate blue #687aca. Lead with cyan and slate blue, use coral data blocks and cream highlights. No text, labels, characters, letters, watermark, border, antialiasing, gradients, soft edges, realistic shading, shiny 3D or background scene. Actual transparent background, not a checkerboard illustration.
+
+THESIS
+Use case: logo-brand. Asset: a small logo-like pixel-art sprite for a research project about choosing preprocessing pipelines. Subject: one whimsical branching copper pipeline shaped like a compact fork, with exactly THREE colored square blocks and one tiny golden selector lever at its junction. The overall symbol should suggest choosing a path for data, but is a playful inventory item, NOT a technical diagram. Single connected, compact, SIMPLE iconic shape. Center the isolated icon on a square TRANSPARENT canvas, filling roughly 70%, wide transparent margins. Style: authentic coarse 32x32 or 48x48 effective pixel grid enlarged with perfectly crisp hard square pixels. Chunky geometric silhouette, flat limited 6-8 color palette, only two blocky shade levels, 1990s adventure-game inventory icon, upper-left light. Palette: deep plum #2b174d for shade, warm cream #ffe6bd, orange #ff9957, coral #f76c55, magenta #b43f83, cyan #55d7d6, slate blue #687aca. Lead with orange/copper pipes and deep plum outlines, gold lever, cyan/magenta/slate-blue data blocks. No text, labels, letters, watermark, border, soft edges, antialiasing, gradients, realistic shading, glossy 3D or background scene. No rounded vector edges. Actual transparent background, not a checkerboard illustration.
+
+
+project-fairness.png
+Built-in imagegen; transparent_background: true
+
+Use case: logo-brand. Asset type: playful pixel-art project icon for a personal research portfolio, part of a coherent 1990s adventure-game inventory sprite set. Subject: a small whimsical golden balance scale with two equally sized chunky colored data cubes sitting on the pans, balanced level and symmetric, teal/cyan and coral accents. Style: true coarse pixel art constructed on an approximately 32x32 or 48x48 effective grid, enlarged to square image using perfectly hard square pixels and crisp stepped edges. Centered single readable silhouette fills about 70% of the canvas. Flat limited 6-8-color palette: deep plum #2b174d for dark shaded edges, warm cream #ffe6bd, gold-orange #ff9957, coral #f76c55, magenta #b43f83, cyan #55d7d6, slate blue #687aca. Simple logo-like shape, a little playful and handmade, light from top left. Truly transparent background, no opaque backdrop or checkerboard. No gradients, no smooth vector curves, no antialiasing, no 3D render, no letters, no words, no watermark, no border. Conceptual decorative art rather than precise technical diagram.
+
+project-counterfactuals.png
+Built-in imagegen; transparent_background: true
+
+Use case: logo-brand. Asset type: playful pixel-art project icon for a personal research portfolio, part of a coherent 1990s adventure-game inventory sprite set. Subject: a small chunky CRT oscilloscope with a cyan zigzag signal on its dark screen and a small coral rewind arrow beside it. Off-white cream and plum body with one or two orange square controls, short squat shape. Conceptual metaphor for counterfactual explanations of time-series faults. Single unified icon, not a scene. Style: coarse pixel art constructed on approximately 32x32 or 48x48 effective grid enlarged using hard square pixels and crisp stepped edges. Centered simple readable silhouette fills about 70% of square canvas. Flat limited 6-8-color palette: deep plum #2b174d, warm cream #ffe6bd, orange #ff9957, coral #f76c55, magenta #b43f83, cyan #55d7d6, slate blue #687aca. A little playful and handmade, light from top left. Truly transparent background, no opaque backdrop or checkerboard. No gradients, no smooth vector curves, no antialiasing, no 3D render, no words, no letters, no watermark, no frame around canvas. The cyan trace is an abstract chunky zigzag without numbers, not an exact technical diagram.
+
+
+TEACHING
+Use case: logo-brand. Asset type: transparent PNG icon for a playful personal portfolio with 1990s pixel-art theme. Centered single sprite on truly transparent square canvas. Coarse 32x32 or 48x48 effective pixel grid enlarged with hard square pixels. Flat limited 6-8 color palette. No antialiasing, gradients, 3D, words, labels, watermark, frame, shadow outside sprite, or background. Palette: deep plum #2b174d, cream #ffe6bd, orange #ff9957, coral #f76c55, magenta #b43f83, cyan #55d7d6, slate blue #687aca, optional mint #a7d46f. Sprite fills about 70% of canvas, simple chunky readable silhouette, adventure-game inventory icon, restrained playful quality, light from top left. Subject: small open cream book with a single chunky coral code bracket on each facing page, teal bookmark. Book and brackets form one compact iconic silhouette; these bracket symbols only, no other text.
+
+SNAKE
+Use case: logo-brand. Asset type: transparent PNG icon for a playful personal portfolio with 1990s pixel-art theme. Centered single sprite on truly transparent square canvas. Coarse 32x32 or 48x48 effective pixel grid enlarged with hard square pixels. Flat limited 6-8 color palette. No antialiasing, gradients, 3D, words, labels, watermark, frame, shadow outside sprite, or background. Palette: deep plum #2b174d, cream #ffe6bd, orange #ff9957, coral #f76c55, magenta #b43f83, cyan #55d7d6, slate blue #687aca, optional mint #a7d46f. Sprite fills about 70% of canvas, simple chunky readable silhouette, adventure-game inventory icon, restrained playful quality, light from top left. Subject: cheerful blocky mint-green snake bent into a compact S shape with two tiny square eyes, looking at one tiny coral apple beside its head. Simple classic snake-game spirit.
+
+EARLY
+Use case: logo-brand. Asset type: transparent PNG icon for a playful personal portfolio with 1990s pixel-art theme. Centered single sprite on truly transparent square canvas. Coarse 32x32 or 48x48 effective pixel grid enlarged with hard square pixels. Flat limited 6-8 color palette. No antialiasing, gradients, 3D, words, labels, watermark, frame, shadow outside sprite, or background. Palette: deep plum #2b174d, cream #ffe6bd, orange #ff9957, coral #f76c55, magenta #b43f83, cyan #55d7d6, slate blue #687aca, optional mint #a7d46f. Sprite fills about 70% of canvas, simple chunky readable silhouette, adventure-game inventory icon, restrained playful quality, light from top left. Subject: small pixel produce crate holding one carrot and one tomato, with one tiny cream gear attached to the crate to suggest food-donation automation. Warm wood crate, coral tomato, mint leaves. Simple compact composition.
+
+
+
+Use case: style-transfer / logo-brand. Create one replacement transparent PNG portfolio project sprite. INPUT 1 is the original Cuckoo Dooku logo and is the identity/composition reference: recognizable stern Count Dooku head with swept-back silver hair and silver beard, oversized on a small rounded cuckoo BIRD body, draped brown cloak with a gold chain clasp, and TWO clearly visible skinny bird legs and three-toed bird feet. Preserve this specific funny human-head-on-bird-body joke, not a normal human bust or human body. INPUTS 2 and 3 are STYLE references only: match their clean coarse chunky square pixel edges, deep plum outlines, simple bright inventory-icon silhouette, playful 1990s pixel-art treatment, cream highlights with coral/gold accents and muted teal/slate blue shades. Reinterpret the original photograph as friendly stylized pixel illustration, no photographic detail. Single centered full-body sprite on a truly transparent SQUARE canvas, with generous clear margin; character fills about 75% height. Keep complete head, cloak, little bird body, tail and both feet visible. Face has raised stern eyebrows, swept silver hair and pointed silver beard but simple readable pixel features. Use restricted flat block colors: deep plum #2b174d, cream #ffe6bd, coral #f76c55, warm gold #ffbf69, muted blue #687aca, brown cloak. Light from upper left, no smooth gradients or airbrushing. No words, no lettering, no watermark, no extra characters, no lightsaber, no frame, no scenery, no separate ground shadow, no background. Retain the bird body shape and gold chain from INPUT 1; use INPUTS 2/3 only for pixel treatment and palette coherence.
+
+
+Use case: style-transfer. Asset: replacement potato pixel-art logo for a personal portfolio project, matching the supplied project's new illustration set. Image 1 is the SUBJECT reference: keep a SINGLE SIMPLE POTATO, an irregular golden tan potato with a few darker tiny pixel dimples, no human eyes and no mascot face. Image 2 is the STYLE reference only: match its coarse chunky pixel outline, deep plum edge and shaded blocks, warm cream highlights, inventory-item appearance, square canvas and transparent background. Do not borrow its database or pipe objects. Redraw the potato so it belongs beside that illustration. One charming irregular potato, upright with a slight diagonal lean, no extra objects, no payment symbols, no words. Centered and filling approximately 70% of a square transparent canvas with generous empty margins. Authentic coarse 32x32 or 48x48 effective pixel grid, hard stair-step silhouette and square blocky highlights, not a smoothly rounded or realistic potato. Minimal 6-8 colors: deep plum #2b174d, warm cream #ffe6bd, golden amber, orange #ff9957 and muted coral #f76c55; flat discrete shades, top-left light. Restrained playful 1990s adventure-game inventory icon. No letters, labels, text, border, watermark, drop shadow, scenery, gradients, antialiasing or smooth edges. Actual transparent alpha background.
+
+
+PROFILE PORTRAIT AND SKILLS BADGES (October 24, 2026)
+Built-in imagegen used. Original photos retained. Skills are independent, simpler compositions with fewer logical pixel blocks, designed for the existing 2.5em badges.
+
+PROFILE — images/headshot-pixel.png
+Updated likeness from the new reference photos supplied on October 24, 2026.
+Use case: identity-preserve / style-transfer.
+Asset: replacement pixel-art head-and-shoulders portrait for Omkar Pote's portfolio.
+
+INPUT 1 is the primary CURRENT facial-identity reference (the man holding a cake outdoors). INPUT 2 is another CURRENT reference of the same man smiling in a black T-shirt at a restaurant. INPUT 3 is the OLD portfolio pixel portrait and is only a reference for the pixel-art rendering, square crop, cream background, and general composition. Do NOT preserve the old portrait's old haircut or beard; use the current real facial appearance in inputs 1 and 2.
+
+Create a fresh, faithful pixel-art portrait of the man in inputs 1 and 2. Preserve his actual facial proportions, warm medium-brown skin, brown eyes, eyebrows, nose, natural broad smile with teeth, light moustache and subtle chin/jaw stubble. His current hair is full, dark, slightly tousled and side swept with a fringe, as in input 1. Keep the likeness very close to the photos without beautifying or exaggerating. Same age and natural friendly expression. No glasses.
+
+Square head-and-shoulders crop, centered, facing the viewer at eye level. Include all hair with a small cream margin above; shoulders extend to the lower edges. Plain dark charcoal T-shirt like input 2. No cake, hands, restaurant, plants, other people or scenery. Solid warm cream background matching input 3.
+
+Match the existing portfolio's crisp retro pixel-art treatment: approximately 96x96 logical pixel grid enlarged sharply, hard square pixel clusters, stepped silhouettes, limited palette, intentional simplified facial details, deep plum-black hair and outlines, natural warm brown skin shades, cream highlights. Keep skin color faithful to the real photos rather than orange. The portrait should look like a carefully hand-pixelled version of THIS person, not a generic game character. No smooth painting, photographic texture, gradients, dithering, thick caricature outlines, text, frame, watermark, or extra objects.
+
+
+LOCAL EYE AND EYEBROW CORRECTION — original profile photo as angle reference
+Built-in imagegen, localized edit of the current pixel portrait.
+Use case: precise-object-edit / identity-preserve.
+INPUT 1 is the current pixel portrait to edit. INPUT 2 is the original photographic profile picture and is an exact anatomical reference for ONLY the eyes and eyebrows.
+
+Make a very localized correction to INPUT 1: change ONLY the two eyes, their immediate eyelid/outer-corner lines, and the two eyebrows. The user says these are wrong and drooping at the sides. Carefully match the angle, shape and expression of the eyes and eyebrows in INPUT 2, translated into the SAME pixel-art language.
+
+Specific correction:
+- The photographed eyes are narrower, relaxed smiling almond shapes. The current pixel eyes are too round and wide open. Reduce the vertical opening and amount of visible eye white to match the photo while preserving his brown irises and slight natural asymmetry.
+- Remove/shorten the heavy downward extensions at the outer eye corners. Lighten the exaggerated dark lower-eye outlines that create a drooping look. Follow the photograph's subtle corner-to-corner angle precisely; do NOT invent an upward cat-eye slant or a cosmetic eye lift.
+- Match the original photograph's soft, gently arched brows with short, lightly tapered outer tails. Remove the current overly geometric high arches and sharply downward-stepping outer ends. Let the outer brow ends sit naturally as in the reference instead of sagging down. Do not make the brows angry, perfectly straight or perfectly symmetrical.
+- Keep the friendly smiling expression, eye spacing and gaze.
+
+Everything outside this small eye-and-brow area must remain unchanged from INPUT 1: exact hairstyle and hair silhouette, forehead, skin color and pixel palette, head outline, ears, nose, cheeks, smile, teeth, mouth, moustache, stubble, chin, neck, shirt, shoulders, cream background, square crop, image size and pixel-block scale. Do not copy the old haircut or beard from INPUT 2. Do not repaint the whole face or restyle the portrait. This is a tiny corrective edit of an otherwise accepted illustration, not a new portrait.
+Preserve crisp square pixel clusters, stepped contours, existing sharpness, and the existing limited palette. No text, additional objects or border.
+
+
+FINAL COARSE PIXEL PORTRAIT — larger blocks and fewer details
+Built-in imagegen edit of the accepted portrait; simplified likeness requested by the user.
+Use case: style-transfer.
+Edit this accepted pixel portrait into a MUCH COARSER, simpler pixel-art avatar. The user wants larger pixels and fewer details so it does not need photographic accuracy.
+
+Keep the same person’s broad recognisable appearance: full dark side-swept hair, warm brown skin, relaxed smiling eyes and softly angled eyebrows, broad friendly smile, light facial hair, dark T-shirt. Keep the same square head-and-shoulders framing and warm cream background. Preserve the cheerful mood.
+
+CRITICAL VISUAL CHANGE: redraw on a very low-resolution 40-by-40 logical pixel grid, then enlarge with perfectly hard nearest-neighbour square blocks. Each logical pixel should be a large obvious square, approximately 1/40 of the canvas width. The entire face should be only about 22 logical pixels across. Every visible shape must use this SAME coarse block size. This must be dramatically chunkier than the input, like a tiny classic adventure-game dialogue portrait.
+
+Simplify aggressively: 10–12 flat colors total; hair as a few large dark plum clusters with just one highlight shade; face as broad warm brown/ochre color patches with just two shadow shades; eyes represented with a few horizontal pixels each; eyebrows as short gentle pixel strokes; smile as one simple cream band rather than individual teeth; stubble as two or three simple shadow clusters. No hair strands, eyelashes, wrinkles, tiny eye details, individual teeth, textured stubble, dithering, thin outlines, micro-pixels, realistic shading, gradients or smooth curves. Do not add details between the large pixel blocks. A playful, intentionally simplified likeness is more important than precision.
+Do not make it blurry: crisp square mosaic-like pixel edges only. No text, frame, extra objects or scenery.
+
+
+FINAL CLEAN-SHAVEN PORTRAIT
+Built-in imagegen edit removing facial hair while retaining the coarse pixel style.
+Use case: precise-object-edit / identity-preserve.
+Edit the supplied coarse pixel portrait to make the man fully CLEAN-SHAVEN.
+
+Remove only the moustache, all stubble, the small dark patch below the lower lip, and the beard-like dark clusters along the cheeks, chin and jaw. Replace those facial-hair areas with clean, warm skin-tone pixel blocks matching the nearby skin. Keep just simple warm skin-colored shading for natural face shape; no dark blue/purple/gray beard shadow, no five-o'clock shadow, no tiny hair marks.
+
+Preserve the current hair on the head, BOTH EYEBROWS, eye shapes and angles, nose, broad smiling mouth and cream teeth, actual lip/mouth outline, ears, jaw shape, neck, dark T-shirt, cream background, square framing and palette. Do not remove the eyebrows or confuse the dark interior of the smiling mouth with the moustache. Do not alter the smile or make the person younger. Everything besides facial hair should look the same.
+
+Keep the deliberately very chunky low-resolution pixel style of the input: large hard square blocks, simplified features, approximately 40x40 logical pixel grid, no smaller detail or extra texture. No smoothing, realistic skin, gradients, additional objects, text or borders.
+
+
+SKILLS — interests, research, software
+INTERESTS
+Final edit applied to all three icons after initial generation: Change only framing and scale of this existing transparent pixel icon. Preserve the exact simple symbol, number of elements, colors and chunky pixel design. Remove excess empty margin: tightly frame the icon in a square transparent canvas so its actual visible solid artwork occupies 85–90 percent of the canvas width AND approximately 80–90 percent of height. About 5–7 percent margin on each side, never more than 10 percent. This must read clearly as a tiny 40px HUD badge. Do not add detail, no embellishment, no gradient, no shadow, no frame, no words. Keep truly transparent alpha surrounding the entire fully visible icon. Uniform hard square pixel edges. The original image contains excessive transparent whitespace; the requested change is ONLY to crop/reframe or enlarge the motif so it fills the square much more tightly.
+
+Use case: logo-brand. Design ONE tiny 8-bit pixel HUD badge icon for a personal portfolio. This is deliberately much simpler than a project illustration: it must remain instantly clear when displayed at ONLY 40px wide. Conceptual 20 by 20 or 24 by 24 pixel grid, with about 16–20 large visible square blocks across the subject, enlarged to the image canvas. SINGLE compact silhouette, thick dark plum pixel outline, only 5–7 FLAT solid colors total. Palette: plum #2b174d, cream #ffe6bd, coral #f76c55, cyan #55d7d6, gold #ffbf69. Uniform hard-square pixel edges and flat fills. NO gradients, NO antialiasing, NO texture, NO dithering, NO soft shading, NO photographic detail, NO 3D, NO tiny decorations, NO letters or words. Entire canvas truly transparent; no frame, badge circle, shadow, or backdrop. Center subject, fully visible with about 10 percent transparent margin. Subject: a simple cream magnifying glass with dark plum outline, held diagonally over exactly ONE solid cyan square representing data. Use the fewest chunky blocks necessary; cream ring, cyan lens/data square, coral handle. No extra squares or sparkles.
+
+RESEARCH
+Use case: logo-brand. Design ONE tiny 8-bit pixel HUD badge icon for a personal portfolio. This is deliberately much simpler than a project illustration: it must remain instantly clear when displayed at ONLY 40px wide. Conceptual 20 by 20 or 24 by 24 pixel grid, with about 16–20 large visible square blocks across the subject, enlarged to the image canvas. SINGLE compact silhouette, thick dark plum pixel outline, only 5–7 FLAT solid colors total. Palette: plum #2b174d, cream #ffe6bd, coral #f76c55, cyan #55d7d6, gold #ffbf69. Uniform hard-square pixel edges and flat fills. NO gradients, NO antialiasing, NO texture, NO dithering, NO soft shading, NO photographic detail, NO 3D, NO tiny decorations, NO letters or words. Entire canvas truly transparent; no frame, badge circle, shadow, or backdrop. Center subject, fully visible with about 10 percent transparent margin. Subject: a very simple coral brain symbol, front view, with just TWO or THREE large plum fold lines, one chunky central division, and a small cream highlight block. Very coarse friendly icon, no realistic wrinkling and no fine folds.
+
+SOFTWARE
+Use case: logo-brand. Design ONE tiny 8-bit pixel HUD badge icon for a personal portfolio. This is deliberately much simpler than a project illustration: it must remain instantly clear when displayed at ONLY 40px wide. Conceptual 20 by 20 or 24 by 24 pixel grid, with about 16–20 large visible square blocks across the subject, enlarged to the image canvas. SINGLE compact silhouette, thick dark plum pixel outline, only 5–7 FLAT solid colors total. Palette: plum #2b174d, cream #ffe6bd, coral #f76c55, cyan #55d7d6, gold #ffbf69. Uniform hard-square pixel edges and flat fills. NO gradients, NO antialiasing, NO texture, NO dithering, NO soft shading, NO photographic detail, NO 3D, NO tiny decorations, NO letters or words. Entire canvas truly transparent; no frame, badge circle, shadow, or backdrop. Center subject, fully visible with about 10 percent transparent margin. Subject: a simple cream branching path with exactly THREE small square endpoint nodes, one coral and two cyan, all outlined plum. One node at lower left connects along a single angular path that forks to upper left and upper right nodes. No arrows, lettering or extra elements. A clear chunky branching-code symbol.
+
+
+
+SKILLS — data-engineering, languages, ml-tools
+data-engineering.png — initial generation
+Built-in imagegen; transparent_background: true
+
+Use case: logo-brand. Create ONE tiny pixel-art UI badge for 'data engineering'. It will be shown at only 40 pixels wide, so design it as a genuinely simple 20x20-pixel or 24x24-pixel sprite, enlarged with hard nearest-neighbor square pixel edges. Subject: a cyan three-tier database cylinder with exactly ONE short coral arrow leaving its right side. The cylinder and arrow form a single compact logo silhouette. About 16 to 20 visible blocks across. Thick deep-plum #2b174d pixel outline. Only 5 to 7 completely flat solid colors from cyan #55d7d6, cream #ffe6bd, coral #f76c55, gold #ffb465, plum #2b174d. Large connected solid fills, absolutely minimal details. Centered, fully visible, tightly framed with about 10 percent transparent margin on all sides. Truly transparent background. No gradient, lighting, texture, dithering, shadow, tiny highlights, curved anti-aliased edges, 3D detail, decorative sparks, scene, floor, letters, text or labels. A simple retro menu icon, not a scaled-down illustration.
+
+data-engineering.png — final framing edit
+Built-in imagegen; transparent_background: true
+
+Edit this pixel database badge, preserving its exact simple design: cyan three-tier database cylinder, cream separators, one coral right-facing outgoing arrow, thick plum pixel outline. Change only the framing: SQUARE transparent canvas, enlarge and center the full mark to occupy approximately 82 percent of canvas width and 80 percent of canvas height, with about 9 to 10 percent transparent margin. Remove the excessive outer blank space. This badge must read clearly at 40px. Keep fully visible, no cropping parts. Flat solid color fills, chunky square stepped edges, no shading, no gradients, no texture, no shadow, no extra decorative detail, no text. Truly transparent background.
+
+languages.png — initial generation
+Built-in imagegen; transparent_background: true
+
+Use case: logo-brand. Create ONE tiny pixel-art UI badge for programming languages, to be displayed at only 40 pixels wide. Genuinely simple conceptual 20x20-pixel or 24x24-pixel sprite enlarged with hard square pixels. Subject only: the coding symbol </>, a cream left angle bracket <, a short cyan forward slash / in the middle, and a coral right angle bracket >, all three symbols outlined with a thick deep plum #2b174d one-pixel stepped outline. Make the angle brackets bold, blocky and very easy to read, compact enough to form one clear logo. NO OTHER TEXT. About 16 to 20 visible blocks across. Flat solid colors only: deep plum #2b174d, warm cream #ffe6bd, coral #f76c55, cyan #55d7d6. Centered and fully visible, roughly square composition, tightly framed with about 10 percent transparent margin on all sides. Truly transparent background. No container, no circle, no book, no screen, no texture, no gradient, no lighting, no shadow, no dithering, no highlights, no antialiasing, no decorations. A minimal retro menu icon, not a scaled-down illustration.
+
+languages.png — final framing edit
+Built-in imagegen; transparent_background: true
+
+Edit the supplied coding badge. Preserve exactly the three symbols </>, their cream/cyan/coral palette, thick plum pixel outlines, and minimalist chunky pixel art. Change only framing and proportions: use a square transparent canvas, make the three symbols substantially TALLER and a little closer together so the complete mark occupies approximately 82% of BOTH canvas width and canvas height, with about 9% transparent margin on all sides. The previous image has far too much blank space above and below. This must be readable as a 40px UI icon. Keep solid flat color, no decoration, no new objects, no added text, no gradients, no texture, no lighting, no antialiasing. Genuine transparent background. Full mark must remain visible.
+
+ml-tools.png — generation
+Built-in imagegen; transparent_background: true
+
+Use case: logo-brand. Create ONE tiny pixel-art UI badge for machine learning tools, displayed at only 40 pixels wide. Design a genuinely minimal conceptual 20x20-pixel or 24x24-pixel sprite enlarged with hard square pixels. Subject: one simple coral square microchip with a solid cream center square and exactly three short chunky pins on each of its four sides. Square straight-on symmetric icon, no perspective. Thick deep-plum #2b174d stepped pixel outline. Only 5 flat colors: deep plum #2b174d, warm cream #ffe6bd, coral #f76c55, muted cyan #55d7d6, warm gold #ffb465. Coral body, cream center, gold or cream pins; keep everything simple and readable. About 16 to 20 visible blocks wide. Centered, tightly framed with about 10 percent genuinely transparent margin, fully visible. No letters, no printed circuit traces, no text, no symbols in center, no gradient, no lighting, no texture, no dithering, no drop shadow, no antialiasing, no decorative sparks, no extra details. A minimal retro menu icon, not a scaled-down project illustration. Truly transparent background.
+
+
+
+SKILLS — web-design, infrastructure
+WEB DESIGN
+Use case: logo-brand. Create ONE tiny pixel-art badge icon for Web Development and Design. Subject: a tiny simple cream browser window, coral titlebar, and ONE chunky cyan arrow cursor over its lower right corner. This is designed to be displayed at only 40px wide, so it must be extraordinarily simple. Conceptual 20x20 or 24x24 pixel grid, only 16-20 visible blocks wide; enlarged crisp square pixels and thick deep plum pixel outline. Flat fills only, strictly 5-7 colors: deep plum #2b174d outline, cream #ffe6bd window, coral #f76c55 titlebar, cyan #55d7d6 cursor, restrained gold highlight if needed. No browser text, no small controls, no writing, no decorative sparkles, no shading gradients, texture, dithering, shadow, or fine details. Single compact readily recognizable silhouette, centered, fully visible, tight square framing with 10% transparent margin. Truly transparent background. Match a playful 1990s inventory pixel-icon set but much smaller and simpler than a project illustration. No labels or watermarks.
+
+INFRASTRUCTURE
+Use case: logo-brand. Create ONE tiny pixel-art badge icon for Infrastructure and Tools. Subject: exactly TWO chunky cyan server blocks stacked vertically, each with exactly ONE coral square indicator and ONE cream square indicator. Simple frontal view. This will display at only 40px wide, therefore use a conceptual 20x20 or 24x24 pixel grid, about 16-20 visible blocks wide. Coarse perfectly hard square pixels, very thick deep plum outline. One unmistakable compact silhouette filling 80% of the square canvas, tightly framed with just 10% transparent margin. Strictly 5-7 FLAT colors: deep plum #2b174d outline, cyan #55d7d6 front panels, darker teal side edge optional, coral #f76c55 and cream #ffe6bd square indicators; no other details. No rack vents, cables, text, buttons, decoration, sparkles, gradient, texture, dithering, drop shadow or tiny technical details. Match a playful 1990s pixel inventory icon palette, not a scaled down complex illustration. Actual transparent alpha background, no checkerboard drawn in image. No words, letters, border or watermark.
+
+
+WEB DESIGN — FINAL FRAMING EDIT
+Edit the attached tiny pixel icon ONLY to fix its framing. Preserve the EXACT browser-window-and-cyan-cursor icon, its blocky coarse pixel geometry, cream/coral/cyan/deep-plum colors, simplicity and details. Do not redesign it, add anything or change its subject. The original contains far too much transparent space. Enlarge and recenter the same existing graphic so its opaque silhouette fills 80-85% of the square canvas width and height, centered, with only 7-10% transparent margin on each side. Keep the whole outline and cursor fully visible. Treat this as trimming excess transparent border and enlarging the existing pixel sprite with crisp square pixels. Background must remain genuinely transparent, not colored or checkerboard. No additional detail, no smoothing, no new text, no shadows, no texture.
+
+

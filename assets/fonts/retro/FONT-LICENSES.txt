@@ -1,0 +1,70 @@
+SELF-HOSTED FONTS FOR OMKAR POTE PORTFOLIO
+Retrieved: 2026-10-26
+
+All font binaries in this folder were downloaded directly from the official repositories listed below. Font binary bytes have not been modified, subsetted, or converted. Pixelify Sans was given a filesystem-safe local filename; its internal family and font data are unchanged.
+
+ACTIVE BODY FONT: CHAKRA PETCH
+Family: Chakra Petch, normal weights 400, 500, 600 and 700.
+Local binaries: ChakraPetch-Regular.ttf, ChakraPetch-Medium.ttf,
+ChakraPetch-SemiBold.ttf and ChakraPetch-Bold.ttf.
+License: SIL Open Font License 1.1; original notice: ChakraPetch-OFL.txt.
+Exact sources, byte counts, hashes and validation: ChakraPetch-SOURCES.txt.
+Chakra Petch replaces IBM Plex Sans for body copy. The IBM Plex files below
+are retained from the previous design and are no longer loaded by the site.
+
+PIXELIFY SANS
+Family: Pixelify Sans
+Style: normal; variable weight axis 400 to 700 (default 400).
+Local binary: PixelifySans-Variable.ttf
+Format: TrueType variable font; CSS format("truetype").
+License: SIL Open Font License 1.1. Full original notice and license: PixelifySans-OFL.txt.
+Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans).
+Google Fonts source directory: https://github.com/google/fonts/tree/main/ofl/pixelifysans
+Upstream project: https://github.com/eifetx/Pixelify-Sans
+
+IBM PLEX SANS
+Family: IBM Plex Sans
+Styles: normal, Regular (400) and Medium (500).
+Local binaries: IBMPlexSans-Regular.woff2 and IBMPlexSans-Medium.woff2
+Format: WOFF2; CSS format("woff2").
+License: SIL Open Font License 1.1. Full original notice and license: IBMPlexSans-OFL.txt.
+Original license copyright notice: Copyright © 2017 IBM Corp. with Reserved Font Name "Plex".
+Official upstream: https://github.com/IBM/plex
+Official font directory: https://github.com/IBM/plex/tree/master/packages/plex-sans/fonts/complete/woff2
+
+LOCAL USE
+Define @font-face rules that reference these local files. No Google Fonts CSS, remote font CDN, or runtime network request is required for these fonts.
+Current UI usage: Pixelify Sans for headings, Chakra Petch at weight 400 for
+body copy, 500 for medium emphasis and 600/700 for bold. Font sizes and line
+heights remain unchanged. Small technical labels use the system monospace stack.
+Keep all OFL files with any redistributed website package. Font licensing applies to the fonts; it does not replace the website code license.
+
+VALIDATION
+TrueType signature, complete FontTools table decoding, weight axis and Latin cmap checked for Pixelify Sans. WOFF2 signature and declared byte length checked, and both IBM Plex fonts successfully parsed through Fontconfig/FreeType with the expected family and style. Both original license files contain SIL OFL 1.1.
+
+DOWNLOAD SOURCES AND BYTE VERIFICATION
+
+PixelifySans-Variable.ttf
+Source: https://raw.githubusercontent.com/google/fonts/main/ofl/pixelifysans/PixelifySans%5Bwght%5D.ttf
+Size: 79160 bytes
+SHA-256: 9ba86cd010a4de309d263ceff8e8044092c9db7efda869620cb9ff1c4389e8a5
+
+PixelifySans-OFL.txt
+Source: https://raw.githubusercontent.com/google/fonts/main/ofl/pixelifysans/OFL.txt
+Size: 4488 bytes
+SHA-256: b66ba46f511a851ab09998b5a5a9fdbb102545a3864cb993095e1745996873a7
+
+IBMPlexSans-Regular.woff2
+Source: https://raw.githubusercontent.com/IBM/plex/master/packages/plex-sans/fonts/complete/woff2/IBMPlexSans-Regular.woff2
+Size: 63020 bytes
+SHA-256: ba711a3085ff9f27440b6b9c4550cfc47c97bf36591d5da958b975bb3add8c1a
+
+IBMPlexSans-Medium.woff2
+Source: https://raw.githubusercontent.com/IBM/plex/master/packages/plex-sans/fonts/complete/woff2/IBMPlexSans-Medium.woff2
+Size: 66740 bytes
+SHA-256: 5660f8a658f8bb50dbc005232f885eadffd2bc1c235c4f6fbb63469d1f9cde6d
+
+IBMPlexSans-OFL.txt
+Source: https://raw.githubusercontent.com/IBM/plex/master/LICENSE.txt
+Size: 4456 bytes
+SHA-256: 7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da
