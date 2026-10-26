@@ -96,3 +96,20 @@
 			}
 		}
 	}
+/* Small skill sprites use simpler, coarser artwork than project illustrations. */
+#skills .skill-icon {
+    background: transparent;
+    border-radius: 0;
+}
+
+#skills .skill-icon:before {
+    display: none;
+}
+
+#skills .skill-icon img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    image-rendering: pixelated;
+}
