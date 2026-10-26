@@ -3,6 +3,28 @@
   'use strict';
   document.documentElement.classList.add('js');
 
+  const themeToggle = document.querySelector('.theme-toggle');
+  if (themeToggle) {
+    const themeIcon = themeToggle.querySelector('.theme-icon');
+    const themeColor = document.querySelector('meta[name="theme-color"]');
+    const applyTheme = theme => {
+      const isDark = theme === 'dark';
+      document.documentElement.setAttribute('data-theme', theme);
+      themeColor?.setAttribute('content', isDark ? '#21192c' : '#f6efd9');
+      themeToggle.setAttribute('aria-label', `Switch to ${isDark ? 'light' : 'dark'} mode`);
+      if (themeIcon) themeIcon.textContent = isDark ? '☀' : '☾';
+    };
+    applyTheme(document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
+    themeToggle.hidden = false;
+    themeToggle.addEventListener('click', () => {
+      const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      applyTheme(theme);
+      try {
+        window.localStorage.setItem('portfolio-theme', theme);
+      } catch { /* The toggle still works for this visit without storage. */ }
+    });
+  }
+
   const menu = document.querySelector('.menu-toggle');
   const nav = document.getElementById('primary-nav');
   if (menu && nav) {

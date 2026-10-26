@@ -1,5 +1,17 @@
 PROJECT ARTWORK
 
+CURRENT PRIMARY INTERESTS AND FAVICON — October 26, 2026
+images/skills/interests.svg is an original code-drawn compass on a 20x20 grid,
+exported to interests.png for the small skill badge. It replaces the earlier
+magnifying-glass illustration documented below. Flat plum, cream, gold, coral,
+and cyan shapes match the rest of the skill icons.
+favicon/favicon.svg recreates the header's Pixelify Sans 600 op. monogram as
+font outlines, with a cream face, plum lettering, and coral offset edge.
+The PNG and ICO favicon assets are exports of this mark; favicon-16.svg has
+optical adjustments to keep the letters readable in the smallest browser tabs.
+The original Pixelify
+font and its open-source license are included in assets/fonts/retro/.
+
 CURRENT PORTRAIT — user-supplied final image, October 26, 2026
 images/headshot-pixel.png is the user's final supplied PNG, used byte-for-byte
 without further generation or image edits. Its SHA-256 is

@@ -3,6 +3,15 @@ Retrieved: 2026-10-26
 
 All font binaries in this folder were downloaded directly from the official repositories listed below. Font binary bytes have not been modified, subsetted, or converted. Pixelify Sans was given a filesystem-safe local filename; its internal family and font data are unchanged.
 
+ACTIVE BODY FONT: CHAKRA PETCH
+Family: Chakra Petch, normal weights 400, 500, 600 and 700.
+Local binaries: ChakraPetch-Regular.ttf, ChakraPetch-Medium.ttf,
+ChakraPetch-SemiBold.ttf and ChakraPetch-Bold.ttf.
+License: SIL Open Font License 1.1; original notice: ChakraPetch-OFL.txt.
+Exact sources, byte counts, hashes and validation: ChakraPetch-SOURCES.txt.
+Chakra Petch replaces IBM Plex Sans for body copy. The IBM Plex files below
+are retained from the previous design and are no longer loaded by the site.
+
 PIXELIFY SANS
 Family: Pixelify Sans
 Style: normal; variable weight axis 400 to 700 (default 400).
@@ -25,8 +34,10 @@ Official font directory: https://github.com/IBM/plex/tree/master/packages/plex-s
 
 LOCAL USE
 Define @font-face rules that reference these local files. No Google Fonts CSS, remote font CDN, or runtime network request is required for these fonts.
-Suggested UI usage (design guidance, not font metadata): Pixelify Sans headings 28–64 CSS px at weight 500–700; IBM Plex Sans body 16–18 CSS px at weight 400, medium labels/emphasis at 500. The site can use a system monospace stack for small technical labels.
-Keep both OFL files with any redistributed website package. Font licensing applies to the fonts; it does not replace the website code license.
+Current UI usage: Pixelify Sans for headings, Chakra Petch at weight 400 for
+body copy, 500 for medium emphasis and 600/700 for bold. Font sizes and line
+heights remain unchanged. Small technical labels use the system monospace stack.
+Keep all OFL files with any redistributed website package. Font licensing applies to the fonts; it does not replace the website code license.
 
 VALIDATION
 TrueType signature, complete FontTools table decoding, weight axis and Latin cmap checked for Pixelify Sans. WOFF2 signature and declared byte length checked, and both IBM Plex fonts successfully parsed through Fontconfig/FreeType with the expected family and style. Both original license files contain SIL OFL 1.1.

@@ -5,13 +5,19 @@ Static portfolio for Omkar Pote, hosted on GitHub Pages at https://www.omkarpote
 ## Retro design
 
 The site uses a warm cream and plum palette with coral, teal, and pastel project
-covers. Pixelify Sans supplies the pixel headings; IBM Plex Sans keeps the longer
-text readable. Both font families are served locally from assets/fonts/retro,
+covers. Pixelify Sans supplies the pixel headings; Chakra Petch is used for the
+body text. Both font families are served locally from assets/fonts/retro,
 with their open-source licenses included in that folder.
+
+Dark mode is the default. The header's sun/moon icon switches between dark
+and the original light palette and remembers the choice in this browser. The
+saved choice is applied before the stylesheet loads to avoid a light flash.
+If browser storage is unavailable, switching still works for the current page.
+Only the large name heading has extra letter spacing.
 
 The active presentation is assets/css/retro.css and assets/js/retro.js. There is
 no build step or JavaScript dependency. The responsive layout includes a mobile
-menu, project filters, expandable research details, visible keyboard focus,
+menu, project filters, always-visible research details, visible keyboard focus,
 and reduced-motion support. Without JavaScript, navigation and all projects
 remain available. Older template assets are retained but are no longer loaded.
 
@@ -76,4 +82,8 @@ The final supplied portrait is used unchanged as images/headshot-pixel.png. The
 original photos are retained. Skills use eight dedicated, simplified pixel
 sprites in images/skills/; they are not scaled copies of project art. Project
 illustrations sit on distinct pastel covers with a subtle square grid.
+The Primary Interests icon is a small pixel compass; its editable SVG source
+is included beside the PNG. Favicons use the header's Pixelify `op.` monogram,
+with a cream face, plum lettering, and coral offset edge. SVG, PNG, and ICO
+versions are included for browsers and home-screen shortcuts.
 Earlier generation prompts and the final portrait note are in ARTWORK.txt.
