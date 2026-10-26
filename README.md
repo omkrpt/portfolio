@@ -2,6 +2,19 @@
 
 Static portfolio for Omkar Pote, hosted on GitHub Pages at https://www.omkarpote.com/.
 
+## Retro design
+
+The site uses a warm cream and plum palette with coral, teal, and pastel project
+covers. Pixelify Sans supplies the pixel headings; IBM Plex Sans keeps the longer
+text readable. Both font families are served locally from assets/fonts/retro,
+with their open-source licenses included in that folder.
+
+The active presentation is assets/css/retro.css and assets/js/retro.js. There is
+no build step or JavaScript dependency. The responsive layout includes a mobile
+menu, project filters, expandable research details, visible keyboard focus,
+and reduced-motion support. Without JavaScript, navigation and all projects
+remain available. Older template assets are retained but are no longer loaded.
+
 ## Local preview and the Snake video
 
 Open index.html directly to browse the site. In this local-file preview, Snake's
@@ -59,7 +72,8 @@ Project artwork prompts are recorded in ARTWORK.txt.
 
 ## Pixel artwork
 
-The profile photo now uses images/headshot-pixel.png. The original photos are
-retained. Skills use eight dedicated, simplified pixel sprites in images/skills/
-inside the original badge footprints; they are not scaled copies of project art.
-Exact generation prompts are recorded in ARTWORK.txt.
+The final supplied portrait is used unchanged as images/headshot-pixel.png. The
+original photos are retained. Skills use eight dedicated, simplified pixel
+sprites in images/skills/; they are not scaled copies of project art. Project
+illustrations sit on distinct pastel covers with a subtle square grid.
+Earlier generation prompts and the final portrait note are in ARTWORK.txt.

@@ -1,5 +1,11 @@
 PROJECT ARTWORK
 
+CURRENT PORTRAIT — user-supplied final image, October 26, 2026
+images/headshot-pixel.png is the user's final supplied PNG, used byte-for-byte
+without further generation or image edits. Its SHA-256 is
+40b9ffb40f7f3690802a6d116bec00d888e8f4642b0fc62fe25f1080f3d10cec.
+The portrait prompts below document earlier iterations only.
+
 The nine project-*.png assets were generated with the built-in image-generation tool.
 Potato and Cuckoo Dooku have been redrawn to match the full set.
 The original image files remain in the source archive.
